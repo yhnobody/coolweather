@@ -1998,7 +1998,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09003b;
         public static final int action_mode_bar_stub=0x7f09003a;
         public static final int action_mode_close_button=0x7f090023;
-        public static final int action_settings=0x7f09005c;
+        public static final int action_settings=0x7f090063;
         public static final int activity_chooser_view_content=0x7f090024;
         public static final int alertTitle=0x7f09002e;
         public static final int always=0x7f090019;
@@ -2007,8 +2007,10 @@ containing a value of this type.
         public static final int cancel_action=0x7f090050;
         public static final int checkbox=0x7f090036;
         public static final int chronometer=0x7f090056;
+        public static final int city_name=0x7f09005c;
         public static final int collapseActionView=0x7f09001a;
         public static final int contentPanel=0x7f09002f;
+        public static final int current_date=0x7f09005f;
         public static final int custom=0x7f090033;
         public static final int customPanel=0x7f090032;
         public static final int decor_content_parent=0x7f09003c;
@@ -2039,6 +2041,7 @@ containing a value of this type.
         public static final int parentPanel=0x7f09002b;
         public static final int progress_circular=0x7f090007;
         public static final int progress_horizontal=0x7f090008;
+        public static final int publish_text=0x7f09005d;
         public static final int radio=0x7f090038;
         public static final int screen=0x7f090015;
         public static final int scrollView=0x7f090030;
@@ -2064,6 +2067,8 @@ containing a value of this type.
         public static final int status_bar_latest_event_content=0x7f090051;
         public static final int submit_area=0x7f090049;
         public static final int tabMode=0x7f09000c;
+        public static final int temp1=0x7f090061;
+        public static final int temp2=0x7f090062;
         public static final int text=0x7f090059;
         public static final int text2=0x7f090057;
         public static final int textSpacerNoButtons=0x7f090031;
@@ -2074,6 +2079,8 @@ containing a value of this type.
         public static final int topPanel=0x7f09002c;
         public static final int up=0x7f090001;
         public static final int useLogo=0x7f090013;
+        public static final int weather_desp=0x7f090060;
+        public static final int weather_info_layout=0x7f09005e;
         public static final int withText=0x7f09001d;
         public static final int wrap_content=0x7f090009;
     }
@@ -2151,6 +2158,7 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f030022;
         public static final int select_dialog_singlechoice_material=0x7f030023;
         public static final int support_simple_spinner_dropdown_item=0x7f030024;
+        public static final int weather_layout=0x7f030025;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
